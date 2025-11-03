@@ -50,7 +50,4 @@ const Termsofpriv = () => {
 }
 
 export default Termsofpriv
-<<<<<<< HEAD
 
-=======
->>>>>>> e75bbe5 (Removed Login import and route)
