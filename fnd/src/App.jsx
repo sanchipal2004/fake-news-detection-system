@@ -21,7 +21,11 @@ function App() {
 <Routes>
   <Route path='/' element={<Home/>}/>
   <Route path='/newsdetect' element={<Newsdetect/>}/>
+<<<<<<< HEAD
   <Route path='/about' element={<About/>}/>
+=======
+ <Route path='/about' element={<About/>}/>
+>>>>>>> e75bbe5 (Removed Login import and route)
  <Route path='/termofservice' element={<Termsofpriv/>}/>
 </Routes>
 </BrowserRouter>

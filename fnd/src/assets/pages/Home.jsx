@@ -4,6 +4,7 @@ import Header from '../components/Header'
 import Hero from '../components/Hero'
 import Footer from '../components/Footer'
 import Imageslider from '../components/Imageslider'
+
 const Home = () => {
   return (
     <div>
@@ -11,8 +12,8 @@ const Home = () => {
     <Header/>
  
     <Hero/>
-
     <Imageslider/>
+    
     <Footer/>
     </div>
   )

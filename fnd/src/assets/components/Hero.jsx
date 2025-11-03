@@ -47,7 +47,7 @@ const Hero = () => {
 
 
             </div>
-            <h1 className='headline font-sans text-3xl font-bold text-white text-left ml-44  '> Headlines </h1>
+            <h1 className='headline font-sans text-3xl font-bold text-white text-left ml-44  '> </h1>
         </div>
        
       </div>
