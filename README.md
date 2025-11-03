@@ -1,1 +1,1 @@
-# Fake-News-Detection-System
+# fake-news-detection-system
